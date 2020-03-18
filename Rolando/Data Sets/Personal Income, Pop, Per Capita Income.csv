@@ -1,0 +1,14 @@
+"CAINC1 Personal Income Summary: Personal Income, Population, Per Capita Personal Income"
+"" 
+"Bureau of Economic Analysis" 
+"Metropolitan Statistical Area"
+"GeoFips","GeoName","LineCode","Description","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018"
+"12420","Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)","1","Personal income (thousands of dollars)",67819889,65884392,70355303,77881693,85635903,88950627,97181958,103244100,107664294,117458116,127439164
+"12420","Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)","2","Population (persons) 1/",1633870,1682338,1727528,1780605,1834926,1883901,1943409,2002591,2062211,2115230,2168316
+"12420","Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)","3","Per capita personal income (dollars) 2/",41509,39162,40726,43739,46670,47216,50006,51555,52208,55530,58773
+"Legend / Footnotes:"
+"1/ Census Bureau midyear population estimates. Estimates for 2010-2018 reflect county population estimates available as of March 2019."
+"2/ Per capita personal income was computed using Census Bureau midyear population estimates. Estimates for 2010-2018 reflect county population estimates available as of March 2019."
+"Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget bulletin no. 18-04 issued September 14, 2018."
+"Note-- All dollar estimates are in thousands of current dollars (not adjusted for inflation). Calculations are performed on unrounded data."
+"Last updated: November 14, 2019-- new statistics for 2018; revised statistics for 1969-2017."

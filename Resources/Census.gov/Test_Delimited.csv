@@ -1,0 +1,598 @@
+﻿GEO_ID,id,,,,,1600000US4805000
+NAME,Geographic Area Name,,,,,"Austin city, Texas"
+DP02_0003E,Estimate,HOUSEHOLDS BY TYPE,Family households (families),With own children under 18 years,,88908
+DP02_0003PE,Percent,HOUSEHOLDS BY TYPE,Family households (families),With own children under 18 years,,27.5
+DP02_0004E,Estimate,HOUSEHOLDS BY TYPE,Family households (families),Married-couple family,,112882
+DP02_0003M,Estimate Margin of Error,HOUSEHOLDS BY TYPE,Family households (families),With own children under 18 years,,3707
+DP02_0003PM,Percent Margin of Error,HOUSEHOLDS BY TYPE,Family households (families),With own children under 18 years,,1.2
+DP02_0004M,Estimate Margin of Error,HOUSEHOLDS BY TYPE,Family households (families),Married-couple family,,4055
+DP02_0001E,Estimate,HOUSEHOLDS BY TYPE,Total households,,,323282
+DP02_0004PE,Percent,HOUSEHOLDS BY TYPE,Family households (families),Married-couple family,,34.9
+DP02_0006E,Estimate,HOUSEHOLDS BY TYPE,Family households (families),"Male householder, no wife present, family",,15801
+DP02_0007M,Estimate Margin of Error,HOUSEHOLDS BY TYPE,Family households (families),"Male householder, no wife present, family",With own children under 18 years,1581
+DP02_0001M,Estimate Margin of Error,HOUSEHOLDS BY TYPE,Total households,,,4713
+DP02_0004PM,Percent Margin of Error,HOUSEHOLDS BY TYPE,Family households (families),Married-couple family,,1.2
+DP02_0005E,Estimate,HOUSEHOLDS BY TYPE,Family households (families),Married-couple family,With own children under 18 years,54045
+DP02_0007PE,Percent,HOUSEHOLDS BY TYPE,Family households (families),"Male householder, no wife present, family",With own children under 18 years,2.4
+DP02_0001PE,Percent,HOUSEHOLDS BY TYPE,Total households,,,323282
+DP02_0006M,Estimate Margin of Error,HOUSEHOLDS BY TYPE,Family households (families),"Male householder, no wife present, family",,1972
+DP02_0007PM,Percent Margin of Error,HOUSEHOLDS BY TYPE,Family households (families),"Male householder, no wife present, family",With own children under 18 years,0.5
+DP02_0001PM,Percent Margin of Error,HOUSEHOLDS BY TYPE,Total households,,,(X)
+DP02_0005M,Estimate Margin of Error,HOUSEHOLDS BY TYPE,Family households (families),Married-couple family,With own children under 18 years,3229
+DP02_0002E,Estimate,HOUSEHOLDS BY TYPE,Family households (families),,,170844
+DP02_0006PE,Percent,HOUSEHOLDS BY TYPE,Family households (families),"Male householder, no wife present, family",,4.9
+DP02_0002M,Estimate Margin of Error,HOUSEHOLDS BY TYPE,Family households (families),,,4290
+DP02_0002PE,Percent,HOUSEHOLDS BY TYPE,Family households (families),,,52.8
+DP02_0005PE,Percent,HOUSEHOLDS BY TYPE,Family households (families),Married-couple family,With own children under 18 years,16.7
+DP02_0006PM,Percent Margin of Error,HOUSEHOLDS BY TYPE,Family households (families),"Male householder, no wife present, family",,0.6
+DP02_0002PM,Percent Margin of Error,HOUSEHOLDS BY TYPE,Family households (families),,,1.3
+DP02_0005PM,Percent Margin of Error,HOUSEHOLDS BY TYPE,Family households (families),Married-couple family,With own children under 18 years,1
+DP02_0007E,Estimate,HOUSEHOLDS BY TYPE,Family households (families),"Male householder, no wife present, family",With own children under 18 years,7622
+DP02_0013PM,Percent Margin of Error,HOUSEHOLDS BY TYPE,Households with one or more people under 18 years,,,1.2
+DP02_0016PE,Percent,HOUSEHOLDS BY TYPE,Average family size,,,(X)
+DP02_0010PM,Percent Margin of Error,HOUSEHOLDS BY TYPE,Nonfamily households,,,1.3
+DP02_0014E,Estimate,HOUSEHOLDS BY TYPE,Households with one or more people 65 years and over,,,41168
+DP02_0011E,Estimate,HOUSEHOLDS BY TYPE,Nonfamily households,Householder living alone,,111115
+DP02_0014M,Estimate Margin of Error,HOUSEHOLDS BY TYPE,Households with one or more people 65 years and over,,,1826
+DP02_0016PM,Percent Margin of Error,HOUSEHOLDS BY TYPE,Average family size,,,(X)
+DP02_0011M,Estimate Margin of Error,HOUSEHOLDS BY TYPE,Nonfamily households,Householder living alone,,4531
+DP02_0008PE,Percent,HOUSEHOLDS BY TYPE,Family households (families),"Female householder, no husband present, family",,13
+DP02_0014PE,Percent,HOUSEHOLDS BY TYPE,Households with one or more people 65 years and over,,,12.7
+DP02_0017E,Estimate,RELATIONSHIP,Population in households,,,772825
+DP02_0008PM,Percent Margin of Error,HOUSEHOLDS BY TYPE,Family households (families),"Female householder, no husband present, family",,0.9
+DP02_0011PE,Percent,HOUSEHOLDS BY TYPE,Nonfamily households,Householder living alone,,34.4
+DP02_0017M,Estimate Margin of Error,RELATIONSHIP,Population in households,,,8336
+DP02_0009E,Estimate,HOUSEHOLDS BY TYPE,Family households (families),"Female householder, no husband present, family",With own children under 18 years,27241
+DP02_0011PM,Percent Margin of Error,HOUSEHOLDS BY TYPE,Nonfamily households,Householder living alone,,1.3
+DP02_0017PE,Percent,RELATIONSHIP,Population in households,,,772825
+DP02_0009M,Estimate Margin of Error,HOUSEHOLDS BY TYPE,Family households (families),"Female householder, no husband present, family",With own children under 18 years,2505
+DP02_0012E,Estimate,HOUSEHOLDS BY TYPE,Nonfamily households,Householder living alone,65 years and over,15730
+DP02_0014PM,Percent Margin of Error,HOUSEHOLDS BY TYPE,Households with one or more people 65 years and over,,,0.5
+DP02_0012M,Estimate Margin of Error,HOUSEHOLDS BY TYPE,Nonfamily households,Householder living alone,65 years and over,1414
+DP02_0015E,Estimate,HOUSEHOLDS BY TYPE,Average household size,,,2.39
+DP02_0017PM,Percent Margin of Error,RELATIONSHIP,Population in households,,,(X)
+DP02_0009PE,Percent,HOUSEHOLDS BY TYPE,Family households (families),"Female householder, no husband present, family",With own children under 18 years,8.4
+DP02_0012PE,Percent,HOUSEHOLDS BY TYPE,Nonfamily households,Householder living alone,65 years and over,4.9
+DP02_0015M,Estimate Margin of Error,HOUSEHOLDS BY TYPE,Average household size,,,0.03
+DP02_0018E,Estimate,RELATIONSHIP,Householder,,,323282
+DP02_0009PM,Percent Margin of Error,HOUSEHOLDS BY TYPE,Family households (families),"Female householder, no husband present, family",With own children under 18 years,0.8
+DP02_0015PE,Percent,HOUSEHOLDS BY TYPE,Average household size,,,(X)
+DP02_0010E,Estimate,HOUSEHOLDS BY TYPE,Nonfamily households,,,152438
+DP02_0012PM,Percent Margin of Error,HOUSEHOLDS BY TYPE,Nonfamily households,Householder living alone,65 years and over,0.4
+DP02_0015PM,Percent Margin of Error,HOUSEHOLDS BY TYPE,Average household size,,,(X)
+DP02_0018M,Estimate Margin of Error,RELATIONSHIP,Householder,,,4713
+DP02_0010M,Estimate Margin of Error,HOUSEHOLDS BY TYPE,Nonfamily households,,,5104
+DP02_0013E,Estimate,HOUSEHOLDS BY TYPE,Households with one or more people under 18 years,,,97054
+DP02_0016E,Estimate,HOUSEHOLDS BY TYPE,Average family size,,,3.15
+DP02_0008E,Estimate,HOUSEHOLDS BY TYPE,Family households (families),"Female householder, no husband present, family",,42161
+DP02_0010PE,Percent,HOUSEHOLDS BY TYPE,Nonfamily households,,,47.2
+DP02_0013M,Estimate Margin of Error,HOUSEHOLDS BY TYPE,Households with one or more people under 18 years,,,3740
+DP02_0016M,Estimate Margin of Error,HOUSEHOLDS BY TYPE,Average family size,,,0.06
+DP02_0008M,Estimate Margin of Error,HOUSEHOLDS BY TYPE,Family households (families),"Female householder, no husband present, family",,2946
+DP02_0013PE,Percent,HOUSEHOLDS BY TYPE,Households with one or more people under 18 years,,,30
+DP02_0065PM,Percent Margin of Error,EDUCATIONAL ATTAINMENT,Graduate or professional degree,,,1
+DP02_0066E,Estimate,EDUCATIONAL ATTAINMENT,Percent high school graduate or higher,,,(X)
+DP02_0066M,Estimate Margin of Error,EDUCATIONAL ATTAINMENT,Percent high school graduate or higher,,,(X)
+DP02_0066PE,Percent,EDUCATIONAL ATTAINMENT,Percent high school graduate or higher,,,85.6
+DP02_0066PM,Percent Margin of Error,EDUCATIONAL ATTAINMENT,Percent high school graduate or higher,,,1
+DP02_0067E,Estimate,EDUCATIONAL ATTAINMENT,Percent bachelor's degree or higher,,,(X)
+DP02_0067M,Estimate Margin of Error,EDUCATIONAL ATTAINMENT,Percent bachelor's degree or higher,,,(X)
+DP02_0067PE,Percent,EDUCATIONAL ATTAINMENT,Percent bachelor's degree or higher,,,43.7
+DP02_0067PM,Percent Margin of Error,EDUCATIONAL ATTAINMENT,Percent bachelor's degree or higher,,,1.4
+DP02_0068E,Estimate,VETERAN STATUS,Civilian population 18 years and over,,,616300
+DP02_0068M,Estimate Margin of Error,VETERAN STATUS,Civilian population 18 years and over,,,4325
+DP02_0068PE,Percent,VETERAN STATUS,Civilian population 18 years and over,,,616300
+DP02_0068PM,Percent Margin of Error,VETERAN STATUS,Civilian population 18 years and over,,,(X)
+DP02_0069E,Estimate,VETERAN STATUS,Civilian veterans,,,38838
+DP02_0069M,Estimate Margin of Error,VETERAN STATUS,Civilian veterans,,,3081
+DP02_0069PE,Percent,VETERAN STATUS,Civilian veterans,,,6.3
+DP02_0069PM,Percent Margin of Error,VETERAN STATUS,Civilian veterans,,,0.5
+DP02_0070E,Estimate,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,Total Civilian Noninstitutionalized Population,,,790207
+DP02_0070M,Estimate Margin of Error,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,Total Civilian Noninstitutionalized Population,,,2391
+DP02_0070PE,Percent,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,Total Civilian Noninstitutionalized Population,,,790207
+DP02_0070PM,Percent Margin of Error,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,Total Civilian Noninstitutionalized Population,,,(X)
+DP02_0071E,Estimate,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,With a disability,,,65256
+DP02_0071M,Estimate Margin of Error,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,With a disability,,,6218
+DP02_0071PE,Percent,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,With a disability,,,8.3
+DP02_0071PM,Percent Margin of Error,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,With a disability,,,0.8
+DP02_0072E,Estimate,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,Under 18 years,,,178506
+DP02_0072M,Estimate Margin of Error,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,Under 18 years,,,4324
+DP02_0072PE,Percent,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,Under 18 years,,,178506
+DP02_0072PM,Percent Margin of Error,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,Under 18 years,,,(X)
+DP02_0073E,Estimate,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,With a disability,,,4866
+DP02_0073M,Estimate Margin of Error,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,With a disability,,,1549
+DP02_0073PE,Percent,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,With a disability,,,2.7
+DP02_0073PM,Percent Margin of Error,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,With a disability,,,0.9
+DP02_0074E,Estimate,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,18 to 64 years,,,557088
+DP02_0074M,Estimate Margin of Error,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,18 to 64 years,,,4813
+DP02_0074PE,Percent,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,18 to 64 years,,,557088
+DP02_0074PM,Percent Margin of Error,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,18 to 64 years,,,(X)
+DP02_0075E,Estimate,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,With a disability,,,40571
+DP02_0075M,Estimate Margin of Error,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,With a disability,,,5766
+DP02_0075PE,Percent,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,With a disability,,,7.3
+DP02_0075PM,Percent Margin of Error,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,With a disability,,,1
+DP02_0076E,Estimate,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,65 years and over,,,54613
+DP02_0076M,Estimate Margin of Error,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,65 years and over,,,2546
+DP02_0076PE,Percent,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,65 years and over,,,54613
+DP02_0076PM,Percent Margin of Error,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,65 years and over,,,(X)
+DP02_0077E,Estimate,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,With a disability,,,19819
+DP02_0077M,Estimate Margin of Error,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,With a disability,,,1925
+DP02_0077PE,Percent,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,With a disability,,,36.3
+DP02_0077PM,Percent Margin of Error,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,With a disability,,,3
+DP02_0078E,Estimate,RESIDENCE 1 YEAR AGO,Population 1 year and over,,,782461
+DP02_0078M,Estimate Margin of Error,RESIDENCE 1 YEAR AGO,Population 1 year and over,,,1834
+DP02_0078PE,Percent,RESIDENCE 1 YEAR AGO,Population 1 year and over,,,782461
+DP02_0078PM,Percent Margin of Error,RESIDENCE 1 YEAR AGO,Population 1 year and over,,,(X)
+DP02_0079E,Estimate,RESIDENCE 1 YEAR AGO,Same house,,,560416
+DP02_0079M,Estimate Margin of Error,RESIDENCE 1 YEAR AGO,Same house,,,11133
+DP02_0079PE,Percent,RESIDENCE 1 YEAR AGO,Same house,,,71.6
+DP02_0079PM,Percent Margin of Error,RESIDENCE 1 YEAR AGO,Same house,,,1.4
+DP02_0080E,Estimate,RESIDENCE 1 YEAR AGO,Different house in the U.S.,,,212476
+DP02_0080M,Estimate Margin of Error,RESIDENCE 1 YEAR AGO,Different house in the U.S.,,,11114
+DP02_0080PE,Percent,RESIDENCE 1 YEAR AGO,Different house in the U.S.,,,27.2
+DP02_0080PM,Percent Margin of Error,RESIDENCE 1 YEAR AGO,Different house in the U.S.,,,1.4
+DP02_0081E,Estimate,RESIDENCE 1 YEAR AGO,Different house in the U.S.,Same county,,147752
+DP02_0081M,Estimate Margin of Error,RESIDENCE 1 YEAR AGO,Different house in the U.S.,Same county,,10451
+DP02_0081PE,Percent,RESIDENCE 1 YEAR AGO,Different house in the U.S.,Same county,,18.9
+DP02_0081PM,Percent Margin of Error,RESIDENCE 1 YEAR AGO,Different house in the U.S.,Same county,,1.3
+DP02_0082E,Estimate,RESIDENCE 1 YEAR AGO,Different house in the U.S.,Different county,,64724
+DP02_0082M,Estimate Margin of Error,RESIDENCE 1 YEAR AGO,Different house in the U.S.,Different county,,6311
+DP02_0082PE,Percent,RESIDENCE 1 YEAR AGO,Different house in the U.S.,Different county,,8.3
+DP02_0082PM,Percent Margin of Error,RESIDENCE 1 YEAR AGO,Different house in the U.S.,Different county,,0.8
+DP02_0083E,Estimate,RESIDENCE 1 YEAR AGO,Different house in the U.S.,Different county,Same state,42644
+DP02_0083M,Estimate Margin of Error,RESIDENCE 1 YEAR AGO,Different house in the U.S.,Different county,Same state,5096
+DP02_0083PE,Percent,RESIDENCE 1 YEAR AGO,Different house in the U.S.,Different county,Same state,5.4
+DP02_0083PM,Percent Margin of Error,RESIDENCE 1 YEAR AGO,Different house in the U.S.,Different county,Same state,0.7
+DP02_0084E,Estimate,RESIDENCE 1 YEAR AGO,Different house in the U.S.,Different county,Different state,22080
+DP02_0084M,Estimate Margin of Error,RESIDENCE 1 YEAR AGO,Different house in the U.S.,Different county,Different state,3712
+DP02_0084PE,Percent,RESIDENCE 1 YEAR AGO,Different house in the U.S.,Different county,Different state,2.8
+DP02_0084PM,Percent Margin of Error,RESIDENCE 1 YEAR AGO,Different house in the U.S.,Different county,Different state,0.5
+DP02_0085E,Estimate,RESIDENCE 1 YEAR AGO,Abroad,,,9569
+DP02_0085M,Estimate Margin of Error,RESIDENCE 1 YEAR AGO,Abroad,,,1987
+DP02_0085PE,Percent,RESIDENCE 1 YEAR AGO,Abroad,,,1.2
+DP02_0085PM,Percent Margin of Error,RESIDENCE 1 YEAR AGO,Abroad,,,0.3
+DP02_0086E,Estimate,PLACE OF BIRTH,Total population,,,795518
+DP02_0086M,Estimate Margin of Error,PLACE OF BIRTH,Total population,,,62
+DP02_0086PE,Percent,PLACE OF BIRTH,Total population,,,795518
+DP02_0086PM,Percent Margin of Error,PLACE OF BIRTH,Total population,,,(X)
+DP02_0087E,Estimate,PLACE OF BIRTH,Native,,,647087
+DP02_0087M,Estimate Margin of Error,PLACE OF BIRTH,Native,,,6568
+DP02_0087PE,Percent,PLACE OF BIRTH,Native,,,81.3
+DP02_0087PM,Percent Margin of Error,PLACE OF BIRTH,Native,,,0.8
+DP02_0088E,Estimate,PLACE OF BIRTH,Native,Born in United States,,636524
+DP02_0088M,Estimate Margin of Error,PLACE OF BIRTH,Native,Born in United States,,7152
+DP02_0088PE,Percent,PLACE OF BIRTH,Native,Born in United States,,80
+DP02_0088PM,Percent Margin of Error,PLACE OF BIRTH,Native,Born in United States,,0.9
+DP02_0089E,Estimate,PLACE OF BIRTH,Native,Born in United States,State of residence,436867
+DP02_0089M,Estimate Margin of Error,PLACE OF BIRTH,Native,Born in United States,State of residence,8574
+DP02_0089PE,Percent,PLACE OF BIRTH,Native,Born in United States,State of residence,54.9
+DP02_0089PM,Percent Margin of Error,PLACE OF BIRTH,Native,Born in United States,State of residence,1.1
+DP02_0090E,Estimate,PLACE OF BIRTH,Native,Born in United States,Different state,199657
+DP02_0090M,Estimate Margin of Error,PLACE OF BIRTH,Native,Born in United States,Different state,6420
+DP02_0090PE,Percent,PLACE OF BIRTH,Native,Born in United States,Different state,25.1
+DP02_0090PM,Percent Margin of Error,PLACE OF BIRTH,Native,Born in United States,Different state,0.8
+DP02_0091E,Estimate,PLACE OF BIRTH,Native,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)",,10563
+DP02_0091M,Estimate Margin of Error,PLACE OF BIRTH,Native,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)",,1993
+DP02_0091PE,Percent,PLACE OF BIRTH,Native,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)",,1.3
+DP02_0091PM,Percent Margin of Error,PLACE OF BIRTH,Native,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)",,0.3
+DP02_0092E,Estimate,PLACE OF BIRTH,Foreign born,,,148431
+DP02_0092M,Estimate Margin of Error,PLACE OF BIRTH,Foreign born,,,6556
+DP02_0092PE,Percent,PLACE OF BIRTH,Foreign born,,,18.7
+DP02_0092PM,Percent Margin of Error,PLACE OF BIRTH,Foreign born,,,0.8
+DP02_0093E,Estimate,U.S. CITIZENSHIP STATUS,Foreign-born population,,,148431
+DP02_0093M,Estimate Margin of Error,U.S. CITIZENSHIP STATUS,Foreign-born population,,,6556
+DP02_0093PE,Percent,U.S. CITIZENSHIP STATUS,Foreign-born population,,,148431
+DP02_0093PM,Percent Margin of Error,U.S. CITIZENSHIP STATUS,Foreign-born population,,,(X)
+DP02_0094E,Estimate,U.S. CITIZENSHIP STATUS,Naturalized U.S. citizen,,,31120
+DP02_0094M,Estimate Margin of Error,U.S. CITIZENSHIP STATUS,Naturalized U.S. citizen,,,3245
+DP02_0094PE,Percent,U.S. CITIZENSHIP STATUS,Naturalized U.S. citizen,,,21
+DP02_0094PM,Percent Margin of Error,U.S. CITIZENSHIP STATUS,Naturalized U.S. citizen,,,2.1
+DP02_0095E,Estimate,U.S. CITIZENSHIP STATUS,Not a U.S. citizen,,,117311
+DP02_0095M,Estimate Margin of Error,U.S. CITIZENSHIP STATUS,Not a U.S. citizen,,,6376
+DP02_0095PE,Percent,U.S. CITIZENSHIP STATUS,Not a U.S. citizen,,,79
+DP02_0095PM,Percent Margin of Error,U.S. CITIZENSHIP STATUS,Not a U.S. citizen,,,2.1
+DP02_0096E,Estimate,YEAR OF ENTRY,Population born outside the United States,,,158994
+DP02_0096M,Estimate Margin of Error,YEAR OF ENTRY,Population born outside the United States,,,7140
+DP02_0096PE,Percent,YEAR OF ENTRY,Population born outside the United States,,,158994
+DP02_0096PM,Percent Margin of Error,YEAR OF ENTRY,Population born outside the United States,,,(X)
+DP02_0097E,Estimate,YEAR OF ENTRY,Native,,,10563
+DP02_0097M,Estimate Margin of Error,YEAR OF ENTRY,Native,,,1993
+DP02_0097PE,Percent,YEAR OF ENTRY,Native,,,10563
+DP02_0097PM,Percent Margin of Error,YEAR OF ENTRY,Native,,,(X)
+DP02_0098E,Estimate,YEAR OF ENTRY,Entered 2000 or later,,,701
+DP02_0098M,Estimate Margin of Error,YEAR OF ENTRY,Entered 2000 or later,,,332
+DP02_0098PE,Percent,YEAR OF ENTRY,Entered 2000 or later,,,6.6
+DP02_0098PM,Percent Margin of Error,YEAR OF ENTRY,Entered 2000 or later,,,3
+DP02_0099E,Estimate,YEAR OF ENTRY,Entered before 2000,,,9862
+DP02_0099M,Estimate Margin of Error,YEAR OF ENTRY,Entered before 2000,,,1917
+DP02_0099PE,Percent,YEAR OF ENTRY,Entered before 2000,,,93.4
+DP02_0099PM,Percent Margin of Error,YEAR OF ENTRY,Entered before 2000,,,3
+DP02_0100E,Estimate,YEAR OF ENTRY,Foreign born,,,148431
+DP02_0100M,Estimate Margin of Error,YEAR OF ENTRY,Foreign born,,,6556
+DP02_0100PE,Percent,YEAR OF ENTRY,Foreign born,,,148431
+DP02_0100PM,Percent Margin of Error,YEAR OF ENTRY,Foreign born,,,(X)
+DP02_0101E,Estimate,YEAR OF ENTRY,Entered 2000 or later,,,76195
+DP02_0101M,Estimate Margin of Error,YEAR OF ENTRY,Entered 2000 or later,,,5721
+DP02_0101PE,Percent,YEAR OF ENTRY,Entered 2000 or later,,,51.3
+DP02_0101PM,Percent Margin of Error,YEAR OF ENTRY,Entered 2000 or later,,,2.5
+DP02_0102E,Estimate,YEAR OF ENTRY,Entered before 2000,,,72236
+DP02_0102M,Estimate Margin of Error,YEAR OF ENTRY,Entered before 2000,,,4167
+DP02_0102PE,Percent,YEAR OF ENTRY,Entered before 2000,,,48.7
+DP02_0102PM,Percent Margin of Error,YEAR OF ENTRY,Entered before 2000,,,2.5
+DP02_0103E,Estimate,WORLD REGION OF BIRTH OF FOREIGN BORN,"Foreign-born population, excluding population born at sea",,,148431
+DP02_0103M,Estimate Margin of Error,WORLD REGION OF BIRTH OF FOREIGN BORN,"Foreign-born population, excluding population born at sea",,,6556
+DP02_0103PE,Percent,WORLD REGION OF BIRTH OF FOREIGN BORN,"Foreign-born population, excluding population born at sea",,,148431
+DP02_0103PM,Percent Margin of Error,WORLD REGION OF BIRTH OF FOREIGN BORN,"Foreign-born population, excluding population born at sea",,,(X)
+DP02_0104E,Estimate,WORLD REGION OF BIRTH OF FOREIGN BORN,Europe,,,7877
+DP02_0104M,Estimate Margin of Error,WORLD REGION OF BIRTH OF FOREIGN BORN,Europe,,,1686
+DP02_0104PE,Percent,WORLD REGION OF BIRTH OF FOREIGN BORN,Europe,,,5.3
+DP02_0104PM,Percent Margin of Error,WORLD REGION OF BIRTH OF FOREIGN BORN,Europe,,,1
+DP02_0105E,Estimate,WORLD REGION OF BIRTH OF FOREIGN BORN,Asia,,,33654
+DP02_0105M,Estimate Margin of Error,WORLD REGION OF BIRTH OF FOREIGN BORN,Asia,,,3537
+DP02_0105PE,Percent,WORLD REGION OF BIRTH OF FOREIGN BORN,Asia,,,22.7
+DP02_0105PM,Percent Margin of Error,WORLD REGION OF BIRTH OF FOREIGN BORN,Asia,,,2.3
+DP02_0106E,Estimate,WORLD REGION OF BIRTH OF FOREIGN BORN,Africa,,,3224
+DP02_0106M,Estimate Margin of Error,WORLD REGION OF BIRTH OF FOREIGN BORN,Africa,,,1194
+DP02_0106PE,Percent,WORLD REGION OF BIRTH OF FOREIGN BORN,Africa,,,2.2
+DP02_0106PM,Percent Margin of Error,WORLD REGION OF BIRTH OF FOREIGN BORN,Africa,,,0.8
+DP02_0107E,Estimate,WORLD REGION OF BIRTH OF FOREIGN BORN,Oceania,,,132
+DP02_0107M,Estimate Margin of Error,WORLD REGION OF BIRTH OF FOREIGN BORN,Oceania,,,154
+DP02_0107PE,Percent,WORLD REGION OF BIRTH OF FOREIGN BORN,Oceania,,,0.1
+DP02_0107PM,Percent Margin of Error,WORLD REGION OF BIRTH OF FOREIGN BORN,Oceania,,,0.1
+DP02_0108E,Estimate,WORLD REGION OF BIRTH OF FOREIGN BORN,Latin America,,,101904
+DP02_0108M,Estimate Margin of Error,WORLD REGION OF BIRTH OF FOREIGN BORN,Latin America,,,5327
+DP02_0108PE,Percent,WORLD REGION OF BIRTH OF FOREIGN BORN,Latin America,,,68.7
+DP02_0108PM,Percent Margin of Error,WORLD REGION OF BIRTH OF FOREIGN BORN,Latin America,,,2.2
+DP02_0109E,Estimate,WORLD REGION OF BIRTH OF FOREIGN BORN,Northern America,,,1640
+DP02_0109M,Estimate Margin of Error,WORLD REGION OF BIRTH OF FOREIGN BORN,Northern America,,,635
+DP02_0109PE,Percent,WORLD REGION OF BIRTH OF FOREIGN BORN,Northern America,,,1.1
+DP02_0109PM,Percent Margin of Error,WORLD REGION OF BIRTH OF FOREIGN BORN,Northern America,,,0.4
+DP02_0110E,Estimate,LANGUAGE SPOKEN AT HOME,Population 5 years and over,,,736484
+DP02_0110M,Estimate Margin of Error,LANGUAGE SPOKEN AT HOME,Population 5 years and over,,,2299
+DP02_0110PE,Percent,LANGUAGE SPOKEN AT HOME,Population 5 years and over,,,736484
+DP02_0110PM,Percent Margin of Error,LANGUAGE SPOKEN AT HOME,Population 5 years and over,,,(X)
+DP02_0111E,Estimate,LANGUAGE SPOKEN AT HOME,English only,,,494454
+DP02_0111M,Estimate Margin of Error,LANGUAGE SPOKEN AT HOME,English only,,,8223
+DP02_0111PE,Percent,LANGUAGE SPOKEN AT HOME,English only,,,67.1
+DP02_0111PM,Percent Margin of Error,LANGUAGE SPOKEN AT HOME,English only,,,1.1
+DP02_0112E,Estimate,LANGUAGE SPOKEN AT HOME,Language other than English,,,242030
+DP02_0112M,Estimate Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,,,7724
+DP02_0112PE,Percent,LANGUAGE SPOKEN AT HOME,Language other than English,,,32.9
+DP02_0112PM,Percent Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,,,1.1
+DP02_0113E,Estimate,LANGUAGE SPOKEN AT HOME,Language other than English,"Speak English less than very well""""",,108733
+DP02_0113M,Estimate Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,"Speak English less than very well""""",,6312
+DP02_0113PE,Percent,LANGUAGE SPOKEN AT HOME,Language other than English,"Speak English less than very well""""",,14.8
+DP02_0113PM,Percent Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,"Speak English less than very well""""",,0.9
+DP02_0114E,Estimate,LANGUAGE SPOKEN AT HOME,Language other than English,Spanish,,191244
+DP02_0114M,Estimate Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,Spanish,,6380
+DP02_0114PM,Percent Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,Spanish,,0.9
+DP02_0115E,Estimate,LANGUAGE SPOKEN AT HOME,Language other than English,Spanish,"Speak English less than very well""""",93314
+DP02_0115M,Estimate Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,Spanish,"Speak English less than very well""""",6059
+DP02_0115PE,Percent,LANGUAGE SPOKEN AT HOME,Language other than English,Spanish,"Speak English less than very well""""",12.7
+DP02_0115PM,Percent Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,Spanish,"Speak English less than very well""""",0.8
+DP02_0116E,Estimate,LANGUAGE SPOKEN AT HOME,Language other than English,Other Indo-European languages,,18719
+DP02_0116M,Estimate Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,Other Indo-European languages,,3819
+DP02_0116PE,Percent,LANGUAGE SPOKEN AT HOME,Language other than English,Other Indo-European languages,,2.5
+DP02_0116PM,Percent Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,Other Indo-European languages,,0.5
+DP02_0117E,Estimate,LANGUAGE SPOKEN AT HOME,Language other than English,Other Indo-European languages,"Speak English less than very well""""",3820
+DP02_0117M,Estimate Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,Other Indo-European languages,"Speak English less than very well""""",1207
+DP02_0117PE,Percent,LANGUAGE SPOKEN AT HOME,Language other than English,Other Indo-European languages,"Speak English less than very well""""",0.5
+DP02_0117PM,Percent Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,Other Indo-European languages,"Speak English less than very well""""",0.2
+DP02_0118E,Estimate,LANGUAGE SPOKEN AT HOME,Language other than English,Asian and Pacific Islander languages,,28859
+DP02_0118M,Estimate Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,Asian and Pacific Islander languages,,3806
+DP02_0118PE,Percent,LANGUAGE SPOKEN AT HOME,Language other than English,Asian and Pacific Islander languages,,3.9
+DP02_0118PM,Percent Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,Asian and Pacific Islander languages,,0.5
+DP02_0119E,Estimate,LANGUAGE SPOKEN AT HOME,Language other than English,Asian and Pacific Islander languages,"Speak English less than very well""""",10686
+DP02_0119M,Estimate Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,Asian and Pacific Islander languages,"Speak English less than very well""""",2026
+DP02_0119PE,Percent,LANGUAGE SPOKEN AT HOME,Language other than English,Asian and Pacific Islander languages,"Speak English less than very well""""",1.5
+DP02_0119PM,Percent Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,Asian and Pacific Islander languages,"Speak English less than very well""""",0.3
+DP02_0120E,Estimate,LANGUAGE SPOKEN AT HOME,Language other than English,Other languages,,3208
+DP02_0120M,Estimate Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,Other languages,,1375
+DP02_0120PE,Percent,LANGUAGE SPOKEN AT HOME,Language other than English,Other languages,,0.4
+DP02_0120PM,Percent Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,Other languages,,0.2
+DP02_0121E,Estimate,LANGUAGE SPOKEN AT HOME,Language other than English,Other languages,"Speak English less than very well""""",913
+DP02_0121M,Estimate Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,Other languages,"Speak English less than very well""""",702
+DP02_0121PE,Percent,LANGUAGE SPOKEN AT HOME,Language other than English,Other languages,"Speak English less than very well""""",0.1
+DP02_0121PM,Percent Margin of Error,LANGUAGE SPOKEN AT HOME,Language other than English,Other languages,"Speak English less than very well""""",0.1
+DP02_0122E,Estimate,ANCESTRY,Total population,,,795518
+DP02_0122M,Estimate Margin of Error,ANCESTRY,Total population,,,62
+DP02_0122PE,Percent,ANCESTRY,Total population,,,795518
+DP02_0122PM,Percent Margin of Error,ANCESTRY,Total population,,,(X)
+DP02_0123E,Estimate,ANCESTRY,American,,,23682
+DP02_0123M,Estimate Margin of Error,ANCESTRY,American,,,3518
+DP02_0123PE,Percent,ANCESTRY,American,,,3
+DP02_0123PM,Percent Margin of Error,ANCESTRY,American,,,0.4
+DP02_0124E,Estimate,ANCESTRY,Arab,,,3738
+DP02_0124M,Estimate Margin of Error,ANCESTRY,Arab,,,1290
+DP02_0124PE,Percent,ANCESTRY,Arab,,,0.5
+DP02_0124PM,Percent Margin of Error,ANCESTRY,Arab,,,0.2
+DP02_0125E,Estimate,ANCESTRY,Czech,,,6486
+DP02_0125M,Estimate Margin of Error,ANCESTRY,Czech,,,1261
+DP02_0125PE,Percent,ANCESTRY,Czech,,,0.8
+DP02_0125PM,Percent Margin of Error,ANCESTRY,Czech,,,0.2
+DP02_0126E,Estimate,ANCESTRY,Danish,,,3003
+DP02_0126M,Estimate Margin of Error,ANCESTRY,Danish,,,889
+DP02_0126PE,Percent,ANCESTRY,Danish,,,0.4
+DP02_0126PM,Percent Margin of Error,ANCESTRY,Danish,,,0.1
+DP02_0127E,Estimate,ANCESTRY,Dutch,,,7017
+DP02_0127M,Estimate Margin of Error,ANCESTRY,Dutch,,,1358
+DP02_0127PE,Percent,ANCESTRY,Dutch,,,0.9
+DP02_0127PM,Percent Margin of Error,ANCESTRY,Dutch,,,0.2
+DP02_0128E,Estimate,ANCESTRY,English,,,70652
+DP02_0128M,Estimate Margin of Error,ANCESTRY,English,,,4925
+DP02_0128PE,Percent,ANCESTRY,English,,,8.9
+DP02_0128PM,Percent Margin of Error,ANCESTRY,English,,,0.6
+DP02_0129E,Estimate,ANCESTRY,French (except Basque),,,24387
+DP02_0129M,Estimate Margin of Error,ANCESTRY,French (except Basque),,,3457
+DP02_0129PE,Percent,ANCESTRY,French (except Basque),,,3.1
+DP02_0129PM,Percent Margin of Error,ANCESTRY,French (except Basque),,,0.4
+DP02_0130E,Estimate,ANCESTRY,French Canadian,,,2477
+DP02_0130M,Estimate Margin of Error,ANCESTRY,French Canadian,,,880
+DP02_0130PE,Percent,ANCESTRY,French Canadian,,,0.3
+DP02_0130PM,Percent Margin of Error,ANCESTRY,French Canadian,,,0.1
+DP02_0131E,Estimate,ANCESTRY,German,,,96271
+DP02_0131M,Estimate Margin of Error,ANCESTRY,German,,,6300
+DP02_0131PE,Percent,ANCESTRY,German,,,12.1
+DP02_0131PM,Percent Margin of Error,ANCESTRY,German,,,0.8
+DP02_0132E,Estimate,ANCESTRY,Greek,,,1890
+DP02_0132M,Estimate Margin of Error,ANCESTRY,Greek,,,728
+DP02_0132PE,Percent,ANCESTRY,Greek,,,0.2
+DP02_0132PM,Percent Margin of Error,ANCESTRY,Greek,,,0.1
+DP02_0133E,Estimate,ANCESTRY,Hungarian,,,2386
+DP02_0133M,Estimate Margin of Error,ANCESTRY,Hungarian,,,857
+DP02_0133PE,Percent,ANCESTRY,Hungarian,,,0.3
+DP02_0133PM,Percent Margin of Error,ANCESTRY,Hungarian,,,0.1
+DP02_0134E,Estimate,ANCESTRY,Irish,,,69440
+DP02_0134M,Estimate Margin of Error,ANCESTRY,Irish,,,4607
+DP02_0134PE,Percent,ANCESTRY,Irish,,,8.7
+DP02_0134PM,Percent Margin of Error,ANCESTRY,Irish,,,0.6
+DP02_0135E,Estimate,ANCESTRY,Italian,,,21097
+DP02_0135M,Estimate Margin of Error,ANCESTRY,Italian,,,2599
+DP02_0135PE,Percent,ANCESTRY,Italian,,,2.7
+DP02_0135PM,Percent Margin of Error,ANCESTRY,Italian,,,0.3
+DP02_0136E,Estimate,ANCESTRY,Lithuanian,,,1185
+DP02_0136M,Estimate Margin of Error,ANCESTRY,Lithuanian,,,777
+DP02_0136PE,Percent,ANCESTRY,Lithuanian,,,0.1
+DP02_0136PM,Percent Margin of Error,ANCESTRY,Lithuanian,,,0.1
+DP02_0137E,Estimate,ANCESTRY,Norwegian,,,6099
+DP02_0137M,Estimate Margin of Error,ANCESTRY,Norwegian,,,1658
+DP02_0137PE,Percent,ANCESTRY,Norwegian,,,0.8
+DP02_0137PM,Percent Margin of Error,ANCESTRY,Norwegian,,,0.2
+DP02_0138E,Estimate,ANCESTRY,Polish,,,12607
+DP02_0138M,Estimate Margin of Error,ANCESTRY,Polish,,,2449
+DP02_0138PE,Percent,ANCESTRY,Polish,,,1.6
+DP02_0138PM,Percent Margin of Error,ANCESTRY,Polish,,,0.3
+DP02_0139E,Estimate,ANCESTRY,Portuguese,,,1078
+DP02_0139M,Estimate Margin of Error,ANCESTRY,Portuguese,,,815
+DP02_0139PE,Percent,ANCESTRY,Portuguese,,,0.1
+DP02_0139PM,Percent Margin of Error,ANCESTRY,Portuguese,,,0.1
+DP02_0140E,Estimate,ANCESTRY,Russian,,,5244
+DP02_0140M,Estimate Margin of Error,ANCESTRY,Russian,,,1674
+DP02_0140PE,Percent,ANCESTRY,Russian,,,0.7
+DP02_0140PM,Percent Margin of Error,ANCESTRY,Russian,,,0.2
+DP02_0141E,Estimate,ANCESTRY,Scotch-Irish,,,13292
+DP02_0141M,Estimate Margin of Error,ANCESTRY,Scotch-Irish,,,2392
+DP02_0141PE,Percent,ANCESTRY,Scotch-Irish,,,1.7
+DP02_0141PM,Percent Margin of Error,ANCESTRY,Scotch-Irish,,,0.3
+DP02_0142E,Estimate,ANCESTRY,Scottish,,,19834
+DP02_0142M,Estimate Margin of Error,ANCESTRY,Scottish,,,2839
+DP02_0142PE,Percent,ANCESTRY,Scottish,,,2.5
+DP02_0142PM,Percent Margin of Error,ANCESTRY,Scottish,,,0.4
+DP02_0143E,Estimate,ANCESTRY,Slovak,,,446
+DP02_0143M,Estimate Margin of Error,ANCESTRY,Slovak,,,392
+DP02_0143PE,Percent,ANCESTRY,Slovak,,,0.1
+DP02_0143PM,Percent Margin of Error,ANCESTRY,Slovak,,,0.1
+DP02_0144E,Estimate,ANCESTRY,Subsaharan African,,,4748
+DP02_0144M,Estimate Margin of Error,ANCESTRY,Subsaharan African,,,1753
+DP02_0144PE,Percent,ANCESTRY,Subsaharan African,,,0.6
+DP02_0144PM,Percent Margin of Error,ANCESTRY,Subsaharan African,,,0.2
+DP02_0145E,Estimate,ANCESTRY,Swedish,,,5486
+DP02_0145M,Estimate Margin of Error,ANCESTRY,Swedish,,,1375
+DP02_0145PE,Percent,ANCESTRY,Swedish,,,0.7
+DP02_0145PM,Percent Margin of Error,ANCESTRY,Swedish,,,0.2
+DP02_0146E,Estimate,ANCESTRY,Swiss,,,1671
+DP02_0146M,Estimate Margin of Error,ANCESTRY,Swiss,,,665
+DP02_0146PE,Percent,ANCESTRY,Swiss,,,0.2
+DP02_0146PM,Percent Margin of Error,ANCESTRY,Swiss,,,0.1
+DP02_0147E,Estimate,ANCESTRY,Ukrainian,,,1206
+DP02_0147M,Estimate Margin of Error,ANCESTRY,Ukrainian,,,693
+DP02_0147PE,Percent,ANCESTRY,Ukrainian,,,0.2
+DP02_0147PM,Percent Margin of Error,ANCESTRY,Ukrainian,,,0.1
+DP02_0148E,Estimate,ANCESTRY,Welsh,,,4463
+DP02_0148M,Estimate Margin of Error,ANCESTRY,Welsh,,,1250
+DP02_0148PE,Percent,ANCESTRY,Welsh,,,0.6
+DP02_0148PM,Percent Margin of Error,ANCESTRY,Welsh,,,0.2
+DP02_0149E,Estimate,ANCESTRY,West Indian (excluding Hispanic origin groups),,,1456
+DP02_0149M,Estimate Margin of Error,ANCESTRY,West Indian (excluding Hispanic origin groups),,,547
+DP02_0149PE,Percent,ANCESTRY,West Indian (excluding Hispanic origin groups),,,0.2
+DP02_0149PM,Percent Margin of Error,ANCESTRY,West Indian (excluding Hispanic origin groups),,,0.1
+DP02_0114PE,Percent,LANGUAGE SPOKEN AT HOME,Language other than English,Spanish,,26
+DP02_0018PM,Percent Margin of Error,RELATIONSHIP,Householder,,,0.5
+DP02_0019E,Estimate,RELATIONSHIP,Spouse,,,111958
+DP02_0019M,Estimate Margin of Error,RELATIONSHIP,Spouse,,,4075
+DP02_0019PE,Percent,RELATIONSHIP,Spouse,,,14.5
+DP02_0019PM,Percent Margin of Error,RELATIONSHIP,Spouse,,,0.5
+DP02_0020E,Estimate,RELATIONSHIP,Child,,,200783
+DP02_0020M,Estimate Margin of Error,RELATIONSHIP,Child,,,5590
+DP02_0020PE,Percent,RELATIONSHIP,Child,,,26
+DP02_0020PM,Percent Margin of Error,RELATIONSHIP,Child,,,0.7
+DP02_0021E,Estimate,RELATIONSHIP,Other relatives,,,53863
+DP02_0021M,Estimate Margin of Error,RELATIONSHIP,Other relatives,,,5342
+DP02_0021PE,Percent,RELATIONSHIP,Other relatives,,,7
+DP02_0021PM,Percent Margin of Error,RELATIONSHIP,Other relatives,,,0.7
+DP02_0022E,Estimate,RELATIONSHIP,Nonrelatives,,,82939
+DP02_0022M,Estimate Margin of Error,RELATIONSHIP,Nonrelatives,,,5484
+DP02_0022PE,Percent,RELATIONSHIP,Nonrelatives,,,10.7
+DP02_0022PM,Percent Margin of Error,RELATIONSHIP,Nonrelatives,,,0.7
+DP02_0023E,Estimate,RELATIONSHIP,Nonrelatives,Unmarried partner,,26985
+DP02_0023M,Estimate Margin of Error,RELATIONSHIP,Nonrelatives,Unmarried partner,,3294
+DP02_0023PE,Percent,RELATIONSHIP,Nonrelatives,Unmarried partner,,3.5
+DP02_0023PM,Percent Margin of Error,RELATIONSHIP,Nonrelatives,Unmarried partner,,0.4
+DP02_0024E,Estimate,MARITAL STATUS,Males 15 years and over,,,324512
+DP02_0024M,Estimate Margin of Error,MARITAL STATUS,Males 15 years and over,,,2935
+DP02_0024PE,Percent,MARITAL STATUS,Males 15 years and over,,,324512
+DP02_0024PM,Percent Margin of Error,MARITAL STATUS,Males 15 years and over,,,(X)
+DP02_0025E,Estimate,MARITAL STATUS,Never married,,,155547
+DP02_0025M,Estimate Margin of Error,MARITAL STATUS,Never married,,,4455
+DP02_0025PE,Percent,MARITAL STATUS,Never married,,,47.9
+DP02_0025PM,Percent Margin of Error,MARITAL STATUS,Never married,,,1.2
+DP02_0026E,Estimate,MARITAL STATUS,"Now married, except separated",,,131163
+DP02_0026M,Estimate Margin of Error,MARITAL STATUS,"Now married, except separated",,,4617
+DP02_0026PE,Percent,MARITAL STATUS,"Now married, except separated",,,40.4
+DP02_0026PM,Percent Margin of Error,MARITAL STATUS,"Now married, except separated",,,1.4
+DP02_0027E,Estimate,MARITAL STATUS,Separated,,,5239
+DP02_0027M,Estimate Margin of Error,MARITAL STATUS,Separated,,,1357
+DP02_0027PE,Percent,MARITAL STATUS,Separated,,,1.6
+DP02_0027PM,Percent Margin of Error,MARITAL STATUS,Separated,,,0.4
+DP02_0028E,Estimate,MARITAL STATUS,Widowed,,,3881
+DP02_0028M,Estimate Margin of Error,MARITAL STATUS,Widowed,,,966
+DP02_0028PE,Percent,MARITAL STATUS,Widowed,,,1.2
+DP02_0028PM,Percent Margin of Error,MARITAL STATUS,Widowed,,,0.3
+DP02_0029E,Estimate,MARITAL STATUS,Divorced,,,28682
+DP02_0029M,Estimate Margin of Error,MARITAL STATUS,Divorced,,,2857
+DP02_0029PE,Percent,MARITAL STATUS,Divorced,,,8.8
+DP02_0029PM,Percent Margin of Error,MARITAL STATUS,Divorced,,,0.9
+DP02_0030E,Estimate,MARITAL STATUS,Females 15 years and over,,,317549
+DP02_0030M,Estimate Margin of Error,MARITAL STATUS,Females 15 years and over,,,3556
+DP02_0030PE,Percent,MARITAL STATUS,Females 15 years and over,,,317549
+DP02_0030PM,Percent Margin of Error,MARITAL STATUS,Females 15 years and over,,,(X)
+DP02_0031E,Estimate,MARITAL STATUS,Never married,,,127850
+DP02_0031M,Estimate Margin of Error,MARITAL STATUS,Never married,,,4436
+DP02_0031PE,Percent,MARITAL STATUS,Never married,,,40.3
+DP02_0031PM,Percent Margin of Error,MARITAL STATUS,Never married,,,1.3
+DP02_0032E,Estimate,MARITAL STATUS,"Now married, except separated",,,119621
+DP02_0032M,Estimate Margin of Error,MARITAL STATUS,"Now married, except separated",,,4306
+DP02_0032PE,Percent,MARITAL STATUS,"Now married, except separated",,,37.7
+DP02_0032PM,Percent Margin of Error,MARITAL STATUS,"Now married, except separated",,,1.4
+DP02_0033E,Estimate,MARITAL STATUS,Separated,,,9386
+DP02_0033M,Estimate Margin of Error,MARITAL STATUS,Separated,,,1874
+DP02_0033PE,Percent,MARITAL STATUS,Separated,,,3
+DP02_0033PM,Percent Margin of Error,MARITAL STATUS,Separated,,,0.6
+DP02_0034E,Estimate,MARITAL STATUS,Widowed,,,17310
+DP02_0034M,Estimate Margin of Error,MARITAL STATUS,Widowed,,,1760
+DP02_0034PE,Percent,MARITAL STATUS,Widowed,,,5.5
+DP02_0034PM,Percent Margin of Error,MARITAL STATUS,Widowed,,,0.5
+DP02_0035E,Estimate,MARITAL STATUS,Divorced,,,43382
+DP02_0035M,Estimate Margin of Error,MARITAL STATUS,Divorced,,,2931
+DP02_0035PE,Percent,MARITAL STATUS,Divorced,,,13.7
+DP02_0035PM,Percent Margin of Error,MARITAL STATUS,Divorced,,,0.9
+DP02_0036E,Estimate,FERTILITY,Number of women 15 to 50 years old who had a birth in the past 12 months,,,14276
+DP02_0036M,Estimate Margin of Error,FERTILITY,Number of women 15 to 50 years old who had a birth in the past 12 months,,,2039
+DP02_0036PE,Percent,FERTILITY,Number of women 15 to 50 years old who had a birth in the past 12 months,,,14276
+DP02_0036PM,Percent Margin of Error,FERTILITY,Number of women 15 to 50 years old who had a birth in the past 12 months,,,(X)
+DP02_0037E,Estimate,FERTILITY,"Unmarried women (widowed, divorced, and never married)",,,5888
+DP02_0037M,Estimate Margin of Error,FERTILITY,"Unmarried women (widowed, divorced, and never married)",,,1488
+DP02_0037PE,Percent,FERTILITY,"Unmarried women (widowed, divorced, and never married)",,,41.2
+DP02_0037PM,Percent Margin of Error,FERTILITY,"Unmarried women (widowed, divorced, and never married)",,,7.6
+DP02_0038E,Estimate,FERTILITY,"Unmarried women (widowed, divorced, and never married)","Per 1,000 unmarried women",,41
+DP02_0038M,Estimate Margin of Error,FERTILITY,"Unmarried women (widowed, divorced, and never married)","Per 1,000 unmarried women",,10
+DP02_0038PE,Percent,FERTILITY,"Unmarried women (widowed, divorced, and never married)","Per 1,000 unmarried women",,(X)
+DP02_0038PM,Percent Margin of Error,FERTILITY,"Unmarried women (widowed, divorced, and never married)","Per 1,000 unmarried women",,(X)
+DP02_0039E,Estimate,FERTILITY,"Per 1,000 women 15 to 50 years old",,,62
+DP02_0039M,Estimate Margin of Error,FERTILITY,"Per 1,000 women 15 to 50 years old",,,9
+DP02_0039PE,Percent,FERTILITY,"Per 1,000 women 15 to 50 years old",,,(X)
+DP02_0039PM,Percent Margin of Error,FERTILITY,"Per 1,000 women 15 to 50 years old",,,(X)
+DP02_0040E,Estimate,FERTILITY,"Per 1,000 women 15 to 50 years old","Per 1,000 women 15 to 19 years old",,41
+DP02_0040M,Estimate Margin of Error,FERTILITY,"Per 1,000 women 15 to 50 years old","Per 1,000 women 15 to 19 years old",,21
+DP02_0040PE,Percent,FERTILITY,"Per 1,000 women 15 to 50 years old","Per 1,000 women 15 to 19 years old",,(X)
+DP02_0040PM,Percent Margin of Error,FERTILITY,"Per 1,000 women 15 to 50 years old","Per 1,000 women 15 to 19 years old",,(X)
+DP02_0041E,Estimate,FERTILITY,"Per 1,000 women 15 to 50 years old","Per 1,000 women 20 to 34 years old",,88
+DP02_0041M,Estimate Margin of Error,FERTILITY,"Per 1,000 women 15 to 50 years old","Per 1,000 women 20 to 34 years old",,16
+DP02_0041PE,Percent,FERTILITY,"Per 1,000 women 15 to 50 years old","Per 1,000 women 20 to 34 years old",,(X)
+DP02_0041PM,Percent Margin of Error,FERTILITY,"Per 1,000 women 15 to 50 years old","Per 1,000 women 20 to 34 years old",,(X)
+DP02_0042E,Estimate,FERTILITY,"Per 1,000 women 15 to 50 years old","Per 1,000 women 35 to 50 years old",,30
+DP02_0042M,Estimate Margin of Error,FERTILITY,"Per 1,000 women 15 to 50 years old","Per 1,000 women 35 to 50 years old",,10
+DP02_0042PE,Percent,FERTILITY,"Per 1,000 women 15 to 50 years old","Per 1,000 women 35 to 50 years old",,(X)
+DP02_0042PM,Percent Margin of Error,FERTILITY,"Per 1,000 women 15 to 50 years old","Per 1,000 women 35 to 50 years old",,(X)
+DP02_0043E,Estimate,GRANDPARENTS,Number of grandparents living with own grandchildren under 18 years,,,12571
+DP02_0043M,Estimate Margin of Error,GRANDPARENTS,Number of grandparents living with own grandchildren under 18 years,,,2162
+DP02_0043PE,Percent,GRANDPARENTS,Number of grandparents living with own grandchildren under 18 years,,,12571
+DP02_0043PM,Percent Margin of Error,GRANDPARENTS,Number of grandparents living with own grandchildren under 18 years,,,(X)
+DP02_0044E,Estimate,GRANDPARENTS,Responsible for grandchildren,,,4663
+DP02_0044M,Estimate Margin of Error,GRANDPARENTS,Responsible for grandchildren,,,1371
+DP02_0044PE,Percent,GRANDPARENTS,Responsible for grandchildren,,,37.1
+DP02_0044PM,Percent Margin of Error,GRANDPARENTS,Responsible for grandchildren,,,9.4
+DP02_0045E,Estimate,GRANDPARENTS,Responsible for grandchildren,Years responsible for grandchildren,Less than 1 year,1129
+DP02_0045M,Estimate Margin of Error,GRANDPARENTS,Responsible for grandchildren,Years responsible for grandchildren,Less than 1 year,664
+DP02_0045PE,Percent,GRANDPARENTS,Responsible for grandchildren,Years responsible for grandchildren,Less than 1 year,9
+DP02_0045PM,Percent Margin of Error,GRANDPARENTS,Responsible for grandchildren,Years responsible for grandchildren,Less than 1 year,5
+DP02_0046E,Estimate,GRANDPARENTS,Responsible for grandchildren,Years responsible for grandchildren,1 or 2 years,1177
+DP02_0046M,Estimate Margin of Error,GRANDPARENTS,Responsible for grandchildren,Years responsible for grandchildren,1 or 2 years,589
+DP02_0046PE,Percent,GRANDPARENTS,Responsible for grandchildren,Years responsible for grandchildren,1 or 2 years,9.4
+DP02_0046PM,Percent Margin of Error,GRANDPARENTS,Responsible for grandchildren,Years responsible for grandchildren,1 or 2 years,4.5
+DP02_0047E,Estimate,GRANDPARENTS,Responsible for grandchildren,Years responsible for grandchildren,3 or 4 years,238
+DP02_0047M,Estimate Margin of Error,GRANDPARENTS,Responsible for grandchildren,Years responsible for grandchildren,3 or 4 years,257
+DP02_0047PE,Percent,GRANDPARENTS,Responsible for grandchildren,Years responsible for grandchildren,3 or 4 years,1.9
+DP02_0047PM,Percent Margin of Error,GRANDPARENTS,Responsible for grandchildren,Years responsible for grandchildren,3 or 4 years,2
+DP02_0048E,Estimate,GRANDPARENTS,Responsible for grandchildren,Years responsible for grandchildren,5 or more years,2119
+DP02_0048M,Estimate Margin of Error,GRANDPARENTS,Responsible for grandchildren,Years responsible for grandchildren,5 or more years,1016
+DP02_0048PE,Percent,GRANDPARENTS,Responsible for grandchildren,Years responsible for grandchildren,5 or more years,16.9
+DP02_0048PM,Percent Margin of Error,GRANDPARENTS,Responsible for grandchildren,Years responsible for grandchildren,5 or more years,7.9
+DP02_0049E,Estimate,GRANDPARENTS,Number of grandparents responsible for own grandchildren under 18 years,,,4663
+DP02_0049M,Estimate Margin of Error,GRANDPARENTS,Number of grandparents responsible for own grandchildren under 18 years,,,1371
+DP02_0049PE,Percent,GRANDPARENTS,Number of grandparents responsible for own grandchildren under 18 years,,,4663
+DP02_0049PM,Percent Margin of Error,GRANDPARENTS,Number of grandparents responsible for own grandchildren under 18 years,,,(X)
+DP02_0050E,Estimate,GRANDPARENTS,Who are female,,,3392
+DP02_0050M,Estimate Margin of Error,GRANDPARENTS,Who are female,,,968
+DP02_0050PE,Percent,GRANDPARENTS,Who are female,,,72.7
+DP02_0050PM,Percent Margin of Error,GRANDPARENTS,Who are female,,,7.7
+DP02_0051E,Estimate,GRANDPARENTS,Who are married,,,3067
+DP02_0051M,Estimate Margin of Error,GRANDPARENTS,Who are married,,,1197
+DP02_0051PE,Percent,GRANDPARENTS,Who are married,,,65.8
+DP02_0051PM,Percent Margin of Error,GRANDPARENTS,Who are married,,,12.9
+DP02_0052E,Estimate,SCHOOL ENROLLMENT,Population 3 years and over enrolled in school,,,230670
+DP02_0052M,Estimate Margin of Error,SCHOOL ENROLLMENT,Population 3 years and over enrolled in school,,,6040
+DP02_0052PE,Percent,SCHOOL ENROLLMENT,Population 3 years and over enrolled in school,,,230670
+DP02_0052PM,Percent Margin of Error,SCHOOL ENROLLMENT,Population 3 years and over enrolled in school,,,(X)
+DP02_0053E,Estimate,SCHOOL ENROLLMENT,"Nursery school, preschool",,,14094
+DP02_0053M,Estimate Margin of Error,SCHOOL ENROLLMENT,"Nursery school, preschool",,,1722
+DP02_0053PE,Percent,SCHOOL ENROLLMENT,"Nursery school, preschool",,,6.1
+DP02_0053PM,Percent Margin of Error,SCHOOL ENROLLMENT,"Nursery school, preschool",,,0.7
+DP02_0054E,Estimate,SCHOOL ENROLLMENT,Kindergarten,,,10053
+DP02_0054M,Estimate Margin of Error,SCHOOL ENROLLMENT,Kindergarten,,,1871
+DP02_0054PE,Percent,SCHOOL ENROLLMENT,Kindergarten,,,4.4
+DP02_0054PM,Percent Margin of Error,SCHOOL ENROLLMENT,Kindergarten,,,0.8
+DP02_0055E,Estimate,SCHOOL ENROLLMENT,Elementary school (grades 1-8),,,75281
+DP02_0055M,Estimate Margin of Error,SCHOOL ENROLLMENT,Elementary school (grades 1-8),,,3572
+DP02_0055PE,Percent,SCHOOL ENROLLMENT,Elementary school (grades 1-8),,,32.6
+DP02_0055PM,Percent Margin of Error,SCHOOL ENROLLMENT,Elementary school (grades 1-8),,,1.3
+DP02_0056E,Estimate,SCHOOL ENROLLMENT,High school (grades 9-12),,,32930
+DP02_0056M,Estimate Margin of Error,SCHOOL ENROLLMENT,High school (grades 9-12),,,2408
+DP02_0056PE,Percent,SCHOOL ENROLLMENT,High school (grades 9-12),,,14.3
+DP02_0056PM,Percent Margin of Error,SCHOOL ENROLLMENT,High school (grades 9-12),,,1.1
+DP02_0057E,Estimate,SCHOOL ENROLLMENT,College or graduate school,,,98312
+DP02_0057M,Estimate Margin of Error,SCHOOL ENROLLMENT,College or graduate school,,,4998
+DP02_0057PE,Percent,SCHOOL ENROLLMENT,College or graduate school,,,42.6
+DP02_0057PM,Percent Margin of Error,SCHOOL ENROLLMENT,College or graduate school,,,1.8
+DP02_0058E,Estimate,EDUCATIONAL ATTAINMENT,Population 25 years and over,,,502032
+DP02_0058M,Estimate Margin of Error,EDUCATIONAL ATTAINMENT,Population 25 years and over,,,4037
+DP02_0058PE,Percent,EDUCATIONAL ATTAINMENT,Population 25 years and over,,,502032
+DP02_0058PM,Percent Margin of Error,EDUCATIONAL ATTAINMENT,Population 25 years and over,,,(X)
+DP02_0059E,Estimate,EDUCATIONAL ATTAINMENT,Less than 9th grade,,,41150
+DP02_0059M,Estimate Margin of Error,EDUCATIONAL ATTAINMENT,Less than 9th grade,,,4139
+DP02_0059PE,Percent,EDUCATIONAL ATTAINMENT,Less than 9th grade,,,8.2
+DP02_0059PM,Percent Margin of Error,EDUCATIONAL ATTAINMENT,Less than 9th grade,,,0.8
+DP02_0060E,Estimate,EDUCATIONAL ATTAINMENT,"9th to 12th grade, no diploma",,,31270
+DP02_0060M,Estimate Margin of Error,EDUCATIONAL ATTAINMENT,"9th to 12th grade, no diploma",,,3230
+DP02_0060PE,Percent,EDUCATIONAL ATTAINMENT,"9th to 12th grade, no diploma",,,6.2
+DP02_0060PM,Percent Margin of Error,EDUCATIONAL ATTAINMENT,"9th to 12th grade, no diploma",,,0.6
+DP02_0061E,Estimate,EDUCATIONAL ATTAINMENT,High school graduate (includes equivalency),,,86897
+DP02_0061M,Estimate Margin of Error,EDUCATIONAL ATTAINMENT,High school graduate (includes equivalency),,,5081
+DP02_0061PE,Percent,EDUCATIONAL ATTAINMENT,High school graduate (includes equivalency),,,17.3
+DP02_0061PM,Percent Margin of Error,EDUCATIONAL ATTAINMENT,High school graduate (includes equivalency),,,1
+DP02_0062E,Estimate,EDUCATIONAL ATTAINMENT,"Some college, no degree",,,97036
+DP02_0062M,Estimate Margin of Error,EDUCATIONAL ATTAINMENT,"Some college, no degree",,,5406
+DP02_0062PE,Percent,EDUCATIONAL ATTAINMENT,"Some college, no degree",,,19.3
+DP02_0062PM,Percent Margin of Error,EDUCATIONAL ATTAINMENT,"Some college, no degree",,,1.1
+DP02_0063E,Estimate,EDUCATIONAL ATTAINMENT,Associate's degree,,,26415
+DP02_0063M,Estimate Margin of Error,EDUCATIONAL ATTAINMENT,Associate's degree,,,2767
+DP02_0063PE,Percent,EDUCATIONAL ATTAINMENT,Associate's degree,,,5.3
+DP02_0063PM,Percent Margin of Error,EDUCATIONAL ATTAINMENT,Associate's degree,,,0.6
+DP02_0064E,Estimate,EDUCATIONAL ATTAINMENT,Bachelor's degree,,,138296
+DP02_0064M,Estimate Margin of Error,EDUCATIONAL ATTAINMENT,Bachelor's degree,,,6120
+DP02_0064PE,Percent,EDUCATIONAL ATTAINMENT,Bachelor's degree,,,27.5
+DP02_0064PM,Percent Margin of Error,EDUCATIONAL ATTAINMENT,Bachelor's degree,,,1.2
+DP02_0065E,Estimate,EDUCATIONAL ATTAINMENT,Graduate or professional degree,,,80968
+DP02_0065M,Estimate Margin of Error,EDUCATIONAL ATTAINMENT,Graduate or professional degree,,,4850
+DP02_0065PE,Percent,EDUCATIONAL ATTAINMENT,Graduate or professional degree,,,16.1
+DP02_0018PE,Percent,RELATIONSHIP,Householder,,,41.8

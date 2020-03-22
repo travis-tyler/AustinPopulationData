@@ -1,7 +1,3 @@
-"CAGDP9 Real GDP by county and metropolitan area 1/"
-"(Thousands of chained 2012 dollars)" 
-"Bureau of Economic Analysis" 
-"Metropolitan Statistical Area"
 "GeoFips","GeoName","LineCode","Description","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018"
 "12420","Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)","1","All industry total",61573299,63354358,65189131,67771615,73119547,81079215,85154743,88561453,86640983,92266233,96340214,99254274,103181110,108459112,116349089,121266147,127337977,134416765
 "12420","Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)","2","  Private industries",50991486,52215612,53981288,56663425,61707331,69402007,73087391,76096118,73736550,79047472,83297299,86120209,89856748,95137288,102772030,107325021,113167846,120143613
@@ -38,11 +34,3 @@
 "12420","Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)","90","Manufacturing and information",7371413,8547037,9170558,11189936,12430729,15746827,16166687,17987534,16678286,19142580,19894697,18768157,19919258,20224126,22763371,23959858,26021637,"(D)"
 "12420","Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)","91","Private goods-producing industries 2/",8982475,9559096,9669791,10618363,12123764,16516555,16536258,17849751,16319397,18133108,19073653,18236086,19049510,19558594,22315680,23573586,25063471,26304298
 "12420","Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)","92","Private services-providing industries 3/",43159910,43597486,45406015,46958166,50341359,52694399,56584881,58152476,57441618,60896053,64205647,67884123,70807343,75570027,80477678,83789034,88156827,93876642
-"Legend / Footnotes:"
-"1/ Real GDP is in thousands of chained 2012 dollars. Industry detail is based on the 2012 North American Industry Classification System (NAICS)."
-"2/ The private goods-producing industries consist of agriculture, forestry, fishing, and hunting; mining, quarrying, and oil and gas extraction; construction; and manufacturing."
-"3/ The private services-producing industries consist of utilities; wholesale trade; retail trade; transportation and warehousing, excluding Postal Service; information; finance and insurance; real estate, rental, and leasing; professional, scientific, and technical services; management of companies; administrative and support and waste management and remediation services; educational services; health care and social assistance; arts, entertainment, and recreation; accommodation and food services; and other services (except government and government enterprises)."
-"Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget bulletin no. 18-04 issued September 14, 2018."
-"* For the All industry total and Government and government enterprises, the difference between the United States and Metropolitan and Nonmetropolitan portions reflects overseas activity, economic activity taking place outside the borders of the United States by the military and associated federal civilian support staff."
-"(D) Not shown to avoid disclosure of confidential information; estimates are included in higher-level totals."
-"Last updated: December 12, 2019 -- new statistics for 2001-2018."

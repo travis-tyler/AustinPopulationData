@@ -130,3 +130,4 @@ dmypy.json
 
 # API Keys to hide
 api_key.py
+config.py

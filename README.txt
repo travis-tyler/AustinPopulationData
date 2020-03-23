@@ -1,9 +1,8 @@
 # AustinPopulationData
 
-An analysis and visualization of Austin's population change over time.
+Analyze the population and economic growth of the city of Austin, TX over the last decade and how the trends fit in the broader context of the U.S.
 
-What effect does Austin's growth have of income and income inequality?
-
-Can we predict the future of Austin’s growth based trends seen in other cities? 
-
-How has recent growth affect cost of living, average salary, etc.?
+- What demographic and geographic changes have taken place?
+- How has the population grown?
+- How has growth impacted wealth and income equity?
+- What industries have grown the most over time? 

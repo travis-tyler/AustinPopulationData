@@ -129,5 +129,4 @@ dmypy.json
 .pyre/
 
 # API Keys to hide
-api_key.py
 config.py

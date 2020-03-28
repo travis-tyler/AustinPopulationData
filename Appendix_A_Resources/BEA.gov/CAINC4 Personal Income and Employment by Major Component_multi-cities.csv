@@ -1,0 +1,109 @@
+GeoFips,GeoName,LineCode,Description,2010,2011,2012,2013,2014,2015,2016,2017,2018
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",,Income by place of residence,,,,,,,,,
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",10,Personal income (thousands of dollars),70355303,77881693,85635903,88950627,97181958,103244100,107664294,117458116,127439164
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",11,  Nonfarm personal income 1/,70356694,77893026,85626638,88909972,97167076,103205385,107666100,117462371,127449114
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",12,  Farm income 2/,-1391,-11333,9265,40655,14882,38715,-1806,-4255,-9950
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",20,Population (persons) 3/,1727528,1780605,1834926,1883901,1943409,2002591,2062211,2115230,2168316
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",30,Per capita personal income (dollars) 4/,40726,43739,46670,47216,50006,51555,52208,55530,58773
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",,Derivation of personal income,,,,,,,,,
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",35,Earnings by place of work,54518078,59478283,63804551,68206126,74142908,78780365,82685268,92198704,100076602
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",36,Less: Contributions for government social insurance 5/,5340082,5074987,5399512,6507476,6980441,7611437,8177832,8965722,9553903
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",37,  Employee and self-employed contributions for government social insurance,2767425,2301246,2436306,3377651,3637006,3977510,4303856,4754235,5160507
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",38,  Employer contributions for government social insurance,2572657,2773741,2963206,3129825,3343435,3633927,3873976,4211487,4393396
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",42,Plus: Adjustment for residence 6/,-232944,-117203,6821,114219,193858,160193,63407,3268,-46370
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",45,Equals: Net earnings by place of residence,48945052,54286093,58411860,61812869,67356325,71329121,74570843,83236250,90476329
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",46,"Plus: Dividends, interest, and rent 7/",13213573,15004657,18572132,18020428,20114337,21393798,21978091,22681066,24676673
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",47,Plus: Personal current transfer receipts,8196678,8590943,8651911,9117330,9711296,10521181,11115360,11540800,12286162
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",,Components of earnings by place of work (thousands of dollars),,,,,,,,,
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",50,Wages and salaries,39212454,41896675,44822530,47075854,50622957,55079245,58629127,63170738,68589975
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",60,Supplements to wages and salaries,7975423,8207476,8747936,9581252,10188451,11185464,11550129,12440873,13272980
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",61,  Employer contributions for employee pension and insurance funds 8/,5402766,5433735,5784730,6451427,6845016,7551537,7676153,8229386,8879584
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",62,  Employer contributions for government social insurance,2572657,2773741,2963206,3129825,3343435,3633927,3873976,4211487,4393396
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",70,Proprietors' income 9/,7330201,9374132,10234085,11549020,13331500,12515656,12506012,16587093,18213647
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",71,  Farm proprietors' income,-22742,-36675,-17721,16441,-13805,7008,-29528,-31083,-41148
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",72,  Nonfarm proprietors' income,7352943,9410807,10251806,11532579,13345305,12508648,12535540,16618176,18254795
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",,Employment (number of jobs),,,,,,,,,
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",7010,Total employment,1082191,1116595,1154689,1211230,1264088,1324618,1382466,1449768,1506528
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",7020,  Wage and salary employment,806366,831507,859217,899958,936650,979042,1017789,1050259,1093025
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",7040,  Proprietors employment,275825,285088,295472,311272,327438,345576,364677,399509,413503
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",,Income by place of residence,,,,,,,,,
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",10,Personal income (thousands of dollars),265132347,278612314,291048881,293546105,310121199,331696214,344041629,362272886,383664542
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",11,  Nonfarm personal income 1/,265041146,278499479,290886743,293393722,309999855,331585682,343918489,362170949,383564685
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",12,  Farm income 2/,91201,112835,162138,152383,121344,110532,123140,101937,99857
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",20,Population (persons) 3/,4566449,4609467,4656698,4703321,4747822,4779753,4811098,4844597,4875390
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",30,Per capita personal income (dollars) 4/,58061,60443,62501,62413,65319,69396,71510,74779,78694
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",,Derivation of personal income,,,,,,,,,
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",35,Earnings by place of work,217578927,224178540,231963320,238186580,247664663,263231152,272732379,288152110,303977308
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",36,Less: Contributions for government social insurance 5/,21814477,20238088,20969245,24425192,25657152,26742344,27705448,29232413,30626218
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",37,  Employee and self-employed contributions for government social insurance,11172028,9086837,9388868,12627393,13351953,14138940,14680616,15517251,16324747
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",38,  Employer contributions for government social insurance,10642449,11151251,11580377,11797799,12305199,12603404,13024832,13715162,14301471
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",42,Plus: Adjustment for residence 6/,-12445003,-13025749,-14120513,-13884077,-13814885,-14804098,-15978113,-16596047,-18784880
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",45,Equals: Net earnings by place of residence,183319447,190914703,196873562,199877311,208192626,221684710,229048818,242323650,254566210
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",46,"Plus: Dividends, interest, and rent 7/",45941802,51684872,58074281,57193792,64231657,69691961,73060172,77490619,84596180
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",47,Plus: Personal current transfer receipts,35871098,36012739,36101038,36475002,37696916,40319543,41932639,42458617,44502152
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",,Components of earnings by place of work (thousands of dollars),,,,,,,,,
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",50,Wages and salaries,153029743,159915005,166966343,171940465,182499653,194361397,200517617,211244122,223136774
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",60,Supplements to wages and salaries,32815458,34808062,35932827,36818076,37334904,39766682,40091928,42427908,44778168
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",61,  Employer contributions for employee pension and insurance funds 8/,22173009,23656811,24352450,25020277,25029705,27163278,27067096,28712746,30476697
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",62,  Employer contributions for government social insurance,10642449,11151251,11580377,11797799,12305199,12603404,13024832,13715162,14301471
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",70,Proprietors' income 9/,31733726,29455473,29064150,29428039,27830106,29103073,32122834,34480080,36062366
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",71,  Farm proprietors' income,31365,42019,44395,30414,-3190,921,-4328,314,-3044
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",72,  Nonfarm proprietors' income,31702361,29413454,29019755,29397625,27833296,29102152,32127162,34479766,36065410
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",,Employment (number of jobs),,,,,,,,,
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",7010,Total employment,3085620,3132923,3190639,3268006,3344550,3490789,3557076,3618955,3689664
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",7020,  Wage and salary employment,2484538,2513832,2574013,2617126,2670396,2730824,2782424,2822059,2861915
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",7040,  Proprietors employment,601082,619091,616626,650880,674154,759965,774652,796896,827749
+31540,"Madison, WI (Metropolitan Statistical Area)",,Income by place of residence,,,,,,,,,
+31540,"Madison, WI (Metropolitan Statistical Area)",10,Personal income (thousands of dollars),26341322,28366282,29762659,30784797,32211954,34121345,35444484,37111247,39209592
+31540,"Madison, WI (Metropolitan Statistical Area)",11,  Nonfarm personal income 1/,26142734,28046924,29524788,30448466,31925422,33923805,35310509,36985788,39127881
+31540,"Madison, WI (Metropolitan Statistical Area)",12,  Farm income 2/,198588,319358,237871,336331,286532,197540,133975,125459,81711
+31540,"Madison, WI (Metropolitan Statistical Area)",20,Population (persons) 3/,606603,613078,619693,626853,633417,640028,647958,654577,660422
+31540,"Madison, WI (Metropolitan Statistical Area)",30,Per capita personal income (dollars) 4/,43424,46269,48028,49110,50854,53312,54702,56695,59371
+31540,"Madison, WI (Metropolitan Statistical Area)",,Derivation of personal income,,,,,,,,,
+31540,"Madison, WI (Metropolitan Statistical Area)",35,Earnings by place of work,21142654,22613535,23542308,24936098,25841648,27195269,28358803,29649593,30974737
+31540,"Madison, WI (Metropolitan Statistical Area)",36,Less: Contributions for government social insurance 5/,2377965,2242907,2322223,2779728,2868809,3026687,3144334,3299426,3398719
+31540,"Madison, WI (Metropolitan Statistical Area)",37,  Employee and self-employed contributions for government social insurance,1201840,987104,1019636,1403306,1458719,1549094,1633000,1727561,1803865
+31540,"Madison, WI (Metropolitan Statistical Area)",38,  Employer contributions for government social insurance,1176125,1255803,1302587,1376422,1410090,1477593,1511334,1571865,1594854
+31540,"Madison, WI (Metropolitan Statistical Area)",42,Plus: Adjustment for residence 6/,-972607,-1114215,-1095237,-1164058,-1254305,-1321203,-1473920,-1545002,-1615522
+31540,"Madison, WI (Metropolitan Statistical Area)",45,Equals: Net earnings by place of residence,17792082,19256413,20124848,20992312,21718534,22847379,23740549,24805165,25960496
+31540,"Madison, WI (Metropolitan Statistical Area)",46,"Plus: Dividends, interest, and rent 7/",4965318,5601430,6048481,6087926,6616755,7186676,7530340,7945503,8606269
+31540,"Madison, WI (Metropolitan Statistical Area)",47,Plus: Personal current transfer receipts,3583922,3508439,3589330,3704559,3876665,4087290,4173595,4360579,4642827
+31540,"Madison, WI (Metropolitan Statistical Area)",,Components of earnings by place of work (thousands of dollars),,,,,,,,,
+31540,"Madison, WI (Metropolitan Statistical Area)",50,Wages and salaries,15219734,16049829,16766375,17735017,18334524,19519833,20416266,21248381,22282478
+31540,"Madison, WI (Metropolitan Statistical Area)",60,Supplements to wages and salaries,4522122,4790522,4988435,5108300,5237413,5265548,5497028,5818148,6073322
+31540,"Madison, WI (Metropolitan Statistical Area)",61,  Employer contributions for employee pension and insurance funds 8/,3345997,3534719,3685848,3731878,3827323,3787955,3985694,4246283,4478468
+31540,"Madison, WI (Metropolitan Statistical Area)",62,  Employer contributions for government social insurance,1176125,1255803,1302587,1376422,1410090,1477593,1511334,1571865,1594854
+31540,"Madison, WI (Metropolitan Statistical Area)",70,Proprietors' income 9/,1400798,1773184,1787498,2092781,2269711,2409888,2445509,2583064,2618937
+31540,"Madison, WI (Metropolitan Statistical Area)",71,  Farm proprietors' income,135447,261946,166768,264333,208095,131096,53321,50318,-4496
+31540,"Madison, WI (Metropolitan Statistical Area)",72,  Nonfarm proprietors' income,1265351,1511238,1620730,1828448,2061616,2278792,2392188,2532746,2623433
+31540,"Madison, WI (Metropolitan Statistical Area)",,Employment (number of jobs),,,,,,,,,
+31540,"Madison, WI (Metropolitan Statistical Area)",7010,Total employment,444555,454166,462205,468463,477995,488721,501988,506517,514279
+31540,"Madison, WI (Metropolitan Statistical Area)",7020,  Wage and salary employment,362216,368105,376582,382313,389646,398595,409923,413124,418365
+31540,"Madison, WI (Metropolitan Statistical Area)",7040,  Proprietors employment,82339,86061,85623,86150,88349,90126,92065,93393,95914
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",,Income by place of residence,,,,,,,,,
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",10,Personal income (thousands of dollars),168310441,179835829,198375359,204317849,223595287,237793064,253114158,271575069,293954143
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",11,  Nonfarm personal income 1/,168211407,179724569,198259146,204155829,223421858,237516633,252913117,271343533,293728909
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",12,  Farm income 2/,99034,111260,116213,162020,173429,276431,201041,231536,225234
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",20,Population (persons) 3/,3449275,3499104,3554484,3610838,3672067,3738316,3814369,3884469,3939363
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",30,Per capita personal income (dollars) 4/,48796,51395,55810,56585,60891,63610,66358,69913,74620
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",,Derivation of personal income,,,,,,,,,
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",35,Earnings by place of work,131439392,139166338,151911758,160731277,170827983,179706706,190978667,206081998,223482493
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",36,Less: Contributions for government social insurance 5/,16362537,15450355,16079948,19015885,20043398,21225100,22322355,24077933,25405000
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",37,  Employee and self-employed contributions for government social insurance,7703114,6320016,6662325,9130615,9671269,10269680,10910319,11862949,12676979
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",38,  Employer contributions for government social insurance,8659423,9130339,9417623,9885270,10372129,10955420,11412036,12214984,12728021
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",42,Plus: Adjustment for residence 6/,-3212668,-3175668,-3210931,-3172396,-3244592,-3364710,-3816861,-3977149,-4889536
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",45,Equals: Net earnings by place of residence,111864187,120540315,132620879,138542996,147539993,155116896,164839451,178026916,193187957
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",46,"Plus: Dividends, interest, and rent 7/",32996308,36180048,42777469,42363690,50686437,56625647,60627827,65155401,71091755
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",47,Plus: Personal current transfer receipts,23449946,23115466,22977011,23411163,25368857,26050521,27646880,28392752,29674431
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",,Components of earnings by place of work (thousands of dollars),,,,,,,,,
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",50,Wages and salaries,98345358,103981664,111354901,116301841,124866797,132002719,140960915,152122741,166916767
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",60,Supplements to wages and salaries,23837574,23931326,24829576,26161286,26970221,27722841,29344242,31301676,33088195
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",61,  Employer contributions for employee pension and insurance funds 8/,15178151,14800987,15411953,16276016,16598092,16767421,17932206,19086692,20360174
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",62,  Employer contributions for government social insurance,8659423,9130339,9417623,9885270,10372129,10955420,11412036,12214984,12728021
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",70,Proprietors' income 9/,9256460,11253348,15727281,18268150,18990965,19981146,20673510,22657581,23477531
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",71,  Farm proprietors' income,36675,56146,48024,93105,108602,208999,114957,151428,142425
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",72,  Nonfarm proprietors' income,9219785,11197202,15679257,18175045,18882363,19772147,20558553,22506153,23335106
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",,Employment (number of jobs),,,,,,,,,
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",7010,Total employment,2154810,2190360,2258786,2313266,2380352,2454182,2527421,2611999,2683056
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",7020,  Wage and salary employment,1739726,1768162,1838081,1883589,1937367,1993032,2048847,2097087,2148664
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",7040,  Proprietors employment,415084,422198,420705,429677,442985,461150,478574,514912,534392
